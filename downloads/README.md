@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [ollama-linux-amd64-rocm.tar](./ollama-linux-amd64-rocm.tar)
+- [ollama-linux-arm64.tar](./ollama-linux-arm64.tar)
 
 ---
 
